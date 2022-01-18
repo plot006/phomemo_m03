@@ -6,7 +6,7 @@
 
 __version__ = "0.0.0a0"
 
-from phomemo_m02s.printer import Printer
+from phomemo_m03.printer import Printer
 
 __all__ = [
     "Printer",
